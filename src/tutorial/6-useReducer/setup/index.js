@@ -21,7 +21,7 @@ const reducer = function(state,action){
 }
 
 const defaultState={
-  people:[],
+  people:data,
   isModelOpen:false,
   modalContent:""
 }
